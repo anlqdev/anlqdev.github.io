@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "icon": {
+      "type": "lucide",
+      "name": "square-code"
+    },
+    "text": "Full Stack Developer"
+  },
+  {
+    "id": 2,
+    "icon": {
+      "type": "lucide",
+      "name": "mars"
+    },
+    "type": "lucide",
+    "text": "he/him"
+  },
+  {
+    "id": 3,
+    "icon": {
+      "type": "lucide",
+      "name": "map-pin"
+    },
+    "text": "Viet Nam"
+  },
+  {
+    "id": 4,
+    "icon": {
+      "type": "lucide",
+      "name": "cake"
+    },
+    "text": "14 years old"
+  }
+]
